@@ -1,2 +1,3 @@
 # mountain-car
-i am traying to add my first file!!
+This is a basic q-learning algorith to 
+solve mountain car from Gym open AI environments.
