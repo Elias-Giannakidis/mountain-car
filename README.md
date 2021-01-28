@@ -1,6 +1,6 @@
 # mountain-car
 This is a tutorial followed code.
-This is a basic q-learning algorith to 
+This is a basic q-learning algorith which 
 solve mountain car from Gym open AI environments.
 
 # Tutorial Video
